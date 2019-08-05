@@ -4,4 +4,4 @@ append
 append+
 append++
 123
-456 AND
+456 AND AND
